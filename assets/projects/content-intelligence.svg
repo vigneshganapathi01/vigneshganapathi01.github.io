@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000">
+<defs>
+  <radialGradient id="glow" cx="0.72" cy="0.2" r="0.75">
+    <stop offset="0" stop-color="#f2b872" stop-opacity="0.28"/>
+    <stop offset="0.45" stop-color="#b9793a" stop-opacity="0.08"/>
+    <stop offset="1" stop-color="#0f0e0d" stop-opacity="0"/>
+  </radialGradient>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.035" stroke-width="1"/>
+  </pattern>
+  <linearGradient id="amberFill" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f2b872" stop-opacity="0.9"/>
+    <stop offset="1" stop-color="#b9793a" stop-opacity="0.55"/>
+  </linearGradient>
+  <linearGradient id="fadeB" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0.7" stop-color="#0f0e0d" stop-opacity="0"/>
+    <stop offset="1" stop-color="#0f0e0d" stop-opacity="0.85"/>
+  </linearGradient>
+  <marker id="arr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+    <path d="M0 0L10 5L0 10z" fill="#f2b872"/>
+  </marker>
+</defs>
+<rect width="1600" height="1000" fill="#0f0e0d"/>
+<rect width="1600" height="1000" fill="url(#grid)"/>
+<rect width="1600" height="1000" fill="url(#glow)"/>
+<!-- window -->
+<g>
+  <rect x="120" y="110" width="1360" height="800" rx="26" fill="#191715" stroke="#2f2c28" stroke-width="2" opacity="1"/>
+  <line x1="120" y1="176" x2="1480" y2="176" stroke="#2f2c28" stroke-width="2"/>
+  <circle cx="160" cy="143" r="8" fill="#3a3632"/><circle cx="188" cy="143" r="8" fill="#3a3632"/><circle cx="216" cy="143" r="8" fill="#3a3632"/>
+  <text x="800" y="150" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="18" fill="#8d877e" font-weight="400" text-anchor="middle" letter-spacing="1" opacity="1">content-intelligence.app</text>
+  <text x="1440" y="150" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="16" fill="#f2b872" font-weight="400" text-anchor="end" letter-spacing="1" opacity="1">MICRO-SAAS</text>
+</g>
+<rect x="160" y="210" width="380" height="660" rx="18" fill="#211f1c" stroke="#2f2c28" stroke-width="1.5" opacity="1"/>
+<text x="190" y="256" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="15" fill="#8d877e" font-weight="600" text-anchor="start" letter-spacing="2" opacity="1">NEW CONTENT BRIEF</text>
+<text x="190" y="300" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#8d877e" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">Topic</text>
+<rect x="190" y="314" width="320" height="52" rx="10" fill="#0f0e0d" stroke="#2f2c28" stroke-width="1.5" opacity="1"/>
+<text x="210" y="347" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="19" fill="#f3eee6" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">AI for small retailers</text>
+<text x="190" y="408" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#8d877e" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">Audience</text>
+<rect x="190" y="422" width="320" height="52" rx="10" fill="#0f0e0d" stroke="#2f2c28" stroke-width="1.5" opacity="1"/>
+<text x="210" y="455" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="19" fill="#f3eee6" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">Store owners · 25–45</text>
+<text x="190" y="516" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#8d877e" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">Goal</text>
+<rect x="190" y="530" width="320" height="52" rx="10" fill="#0f0e0d" stroke="#2f2c28" stroke-width="1.5" opacity="1"/>
+<text x="210" y="563" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="19" fill="#f3eee6" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">Educate → trial sign-ups</text>
+<text x="190" y="624" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#8d877e" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">Format</text>
+<rect x="190" y="638" width="320" height="52" rx="10" fill="#0f0e0d" stroke="#2f2c28" stroke-width="1.5" opacity="1"/>
+<text x="210" y="671" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="19" fill="#f3eee6" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">Blog + YouTube script</text>
+<rect x="190" y="760" width="320" height="60" rx="30" fill="#f2b872"  opacity="1"/>
+<text x="350" y="798" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="20" fill="#1b140c" font-weight="700" text-anchor="middle" letter-spacing="0" opacity="1">Generate strategy  →</text>
+<text x="590" y="256" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="15" fill="#8d877e" font-weight="600" text-anchor="start" letter-spacing="2" opacity="1">CONTENT RESEARCH</text>
+<text x="590" y="300" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" fill="#f3eee6" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">Hook in first 8s</text>
+<rect x="590" y="314" width="330" height="10" rx="5" fill="#2b2825" opacity="1"/>
+<rect x="590" y="314" width="303" height="10" rx="5" fill="url(#amberFill)" opacity="1"/>
+<text x="930" y="304" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="15" fill="#8d877e" font-weight="400" text-anchor="end" letter-spacing="0" opacity="1">92</text>
+<text x="590" y="370" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" fill="#f3eee6" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">How-to structure</text>
+<rect x="590" y="384" width="330" height="10" rx="5" fill="#2b2825" opacity="1"/>
+<rect x="590" y="384" width="267" height="10" rx="5" fill="url(#amberFill)" opacity="1"/>
+<text x="930" y="374" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="15" fill="#8d877e" font-weight="400" text-anchor="end" letter-spacing="0" opacity="1">81</text>
+<text x="590" y="440" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" fill="#f3eee6" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">Listicle depth</text>
+<rect x="590" y="454" width="330" height="10" rx="5" fill="#2b2825" opacity="1"/>
+<rect x="590" y="454" width="211" height="10" rx="5" fill="url(#amberFill)" opacity="1"/>
+<text x="930" y="444" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="15" fill="#8d877e" font-weight="400" text-anchor="end" letter-spacing="0" opacity="1">64</text>
+<text x="590" y="510" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" fill="#f3eee6" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">Comment questions</text>
+<rect x="590" y="524" width="330" height="10" rx="5" fill="#2b2825" opacity="1"/>
+<rect x="590" y="524" width="254" height="10" rx="5" fill="url(#amberFill)" opacity="1"/>
+<text x="930" y="514" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="15" fill="#8d877e" font-weight="400" text-anchor="end" letter-spacing="0" opacity="1">77</text>
+<text x="590" y="580" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" fill="#f3eee6" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">Search intent: compare</text>
+<rect x="590" y="594" width="330" height="10" rx="5" fill="#2b2825" opacity="1"/>
+<rect x="590" y="594" width="191" height="10" rx="5" fill="url(#amberFill)" opacity="1"/>
+<text x="930" y="584" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="15" fill="#8d877e" font-weight="400" text-anchor="end" letter-spacing="0" opacity="1">57</text>
+<text x="590" y="650" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" fill="#f3eee6" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">Watch-time drop at 3:10</text>
+<rect x="590" y="664" width="330" height="10" rx="5" fill="#2b2825" opacity="1"/>
+<rect x="590" y="664" width="138" height="10" rx="5" fill="url(#amberFill)" opacity="1"/>
+<text x="930" y="654" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="15" fill="#8d877e" font-weight="400" text-anchor="end" letter-spacing="0" opacity="1">42</text>
+<rect x="590" y="740" width="186" height="38" rx="19.0" fill="#211f1c" stroke="#2f2c28" stroke-width="1.5" opacity="1"/><text x="683.0" y="764.04" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="14" fill="#f3eee6" font-weight="500" text-anchor="middle" letter-spacing="0" opacity="1">YouTube · 48 videos</text>
+<rect x="590" y="790" width="170" height="38" rx="19.0" fill="#211f1c" stroke="#2f2c28" stroke-width="1.5" opacity="1"/><text x="675.0" y="814.04" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="14" fill="#f3eee6" font-weight="500" text-anchor="middle" letter-spacing="0" opacity="1">Blogs · 120 posts</text>
+<line x1="950" y1="540" x2="1010" y2="540" stroke="#f2b872" stroke-width="2"  marker-end="url(#arr)"/>
+<rect x="1030" y="210" width="410" height="660" rx="18" fill="#211f1c" stroke="#f2b872" stroke-width="1.5" opacity="1"/>
+<text x="1060" y="256" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="15" fill="#f2b872" font-weight="600" text-anchor="start" letter-spacing="2" opacity="1">STRUCTURED OUTPUT</text>
+<text x="1060" y="310" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="28" fill="#f3eee6" font-weight="600" text-anchor="start" letter-spacing="0" opacity="1">7 ways AI helps a</text>
+<text x="1060" y="346" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="28" fill="#f3eee6" font-weight="600" text-anchor="start" letter-spacing="0" opacity="1">small store sell more</text>
+<text x="1060" y="400" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="14" fill="#f2b872" font-weight="700" text-anchor="start" letter-spacing="0" opacity="1">H2</text>
+<rect x="1100" y="388" width="300" height="12" rx="5" fill="#4a4540" opacity="1"/>
+<rect x="1100" y="412" width="240" height="8" rx="5" fill="#302d29" opacity="1"/>
+<rect x="1100" y="428" width="190" height="8" rx="5" fill="#302d29" opacity="1"/>
+<text x="1060" y="478" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="14" fill="#f2b872" font-weight="700" text-anchor="start" letter-spacing="0" opacity="1">H2</text>
+<rect x="1100" y="466" width="250" height="12" rx="5" fill="#4a4540" opacity="1"/>
+<rect x="1100" y="490" width="190" height="8" rx="5" fill="#302d29" opacity="1"/>
+<rect x="1100" y="506" width="140" height="8" rx="5" fill="#302d29" opacity="1"/>
+<text x="1060" y="556" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="14" fill="#f2b872" font-weight="700" text-anchor="start" letter-spacing="0" opacity="1">H2</text>
+<rect x="1100" y="544" width="320" height="12" rx="5" fill="#4a4540" opacity="1"/>
+<rect x="1100" y="568" width="260" height="8" rx="5" fill="#302d29" opacity="1"/>
+<rect x="1100" y="584" width="210" height="8" rx="5" fill="#302d29" opacity="1"/>
+<text x="1060" y="634" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="14" fill="#f2b872" font-weight="700" text-anchor="start" letter-spacing="0" opacity="1">H2</text>
+<rect x="1100" y="622" width="220" height="12" rx="5" fill="#4a4540" opacity="1"/>
+<rect x="1100" y="646" width="160" height="8" rx="5" fill="#302d29" opacity="1"/>
+<rect x="1100" y="662" width="110" height="8" rx="5" fill="#302d29" opacity="1"/>
+<text x="1060" y="712" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="14" fill="#f2b872" font-weight="700" text-anchor="start" letter-spacing="0" opacity="1">H2</text>
+<rect x="1100" y="700" width="280" height="12" rx="5" fill="#4a4540" opacity="1"/>
+<rect x="1100" y="724" width="220" height="8" rx="5" fill="#302d29" opacity="1"/>
+<rect x="1100" y="740" width="170" height="8" rx="5" fill="#302d29" opacity="1"/>
+<rect x="1060" y="800" width="275" height="38" rx="19.0" fill="#0f0e0d" stroke="#2f2c28" stroke-width="1.5" opacity="1"/><text x="1197.5" y="824.04" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="14" fill="#9fe0c6" font-weight="500" text-anchor="middle" letter-spacing="0" opacity="1">Audience ✓  Structure ✓  CTA ✓</text>
+<rect width="1600" height="1000" fill="url(#fadeB)"/>
+</svg>

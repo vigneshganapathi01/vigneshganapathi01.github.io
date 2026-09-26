@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000">
+<defs>
+  <radialGradient id="glow" cx="0.72" cy="0.2" r="0.75">
+    <stop offset="0" stop-color="#f2b872" stop-opacity="0.28"/>
+    <stop offset="0.45" stop-color="#b9793a" stop-opacity="0.08"/>
+    <stop offset="1" stop-color="#0f0e0d" stop-opacity="0"/>
+  </radialGradient>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.035" stroke-width="1"/>
+  </pattern>
+  <linearGradient id="amberFill" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f2b872" stop-opacity="0.9"/>
+    <stop offset="1" stop-color="#b9793a" stop-opacity="0.55"/>
+  </linearGradient>
+  <linearGradient id="fadeB" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0.7" stop-color="#0f0e0d" stop-opacity="0"/>
+    <stop offset="1" stop-color="#0f0e0d" stop-opacity="0.85"/>
+  </linearGradient>
+  <marker id="arr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+    <path d="M0 0L10 5L0 10z" fill="#f2b872"/>
+  </marker>
+</defs>
+<rect width="1600" height="1000" fill="#0f0e0d"/>
+<rect width="1600" height="1000" fill="url(#grid)"/>
+<rect width="1600" height="1000" fill="url(#glow)"/>
+<!-- window -->
+<g>
+  <rect x="120" y="110" width="1360" height="800" rx="26" fill="#191715" stroke="#2f2c28" stroke-width="2" opacity="1"/>
+  <line x1="120" y1="176" x2="1480" y2="176" stroke="#2f2c28" stroke-width="2"/>
+  <circle cx="160" cy="143" r="8" fill="#3a3632"/><circle cx="188" cy="143" r="8" fill="#3a3632"/><circle cx="216" cy="143" r="8" fill="#3a3632"/>
+  <text x="800" y="150" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="18" fill="#8d877e" font-weight="400" text-anchor="middle" letter-spacing="1" opacity="1">blog-workflow / run #128</text>
+  <text x="1440" y="150" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="16" fill="#f2b872" font-weight="400" text-anchor="end" letter-spacing="1" opacity="1">AUTOMATION</text>
+</g>
+<rect x="170" y="250" width="180" height="96" rx="16" fill="#211f1c" stroke="#2f2c28" stroke-width="1.6" opacity="1"/>
+<text x="190" y="286" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="14" fill="#f2b872" font-weight="700" text-anchor="start" letter-spacing="0" opacity="1">01</text>
+<text x="190" y="320" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" fill="#f3eee6" font-weight="600" text-anchor="start" letter-spacing="0" opacity="1">Input</text>
+<line x1="354" y1="298" x2="378" y2="298" stroke="#f2b872" stroke-width="2"  marker-end="url(#arr)"/>
+<rect x="382" y="250" width="180" height="96" rx="16" fill="#211f1c" stroke="#2f2c28" stroke-width="1.6" opacity="1"/>
+<text x="402" y="286" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="14" fill="#f2b872" font-weight="700" text-anchor="start" letter-spacing="0" opacity="1">02</text>
+<text x="402" y="320" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" fill="#f3eee6" font-weight="600" text-anchor="start" letter-spacing="0" opacity="1">Research</text>
+<line x1="566" y1="298" x2="590" y2="298" stroke="#f2b872" stroke-width="2"  marker-end="url(#arr)"/>
+<rect x="594" y="250" width="180" height="96" rx="16" fill="#211f1c" stroke="#2f2c28" stroke-width="1.6" opacity="1"/>
+<text x="614" y="286" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="14" fill="#f2b872" font-weight="700" text-anchor="start" letter-spacing="0" opacity="1">03</text>
+<text x="614" y="320" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" fill="#f3eee6" font-weight="600" text-anchor="start" letter-spacing="0" opacity="1">Analysis</text>
+<line x1="778" y1="298" x2="802" y2="298" stroke="#f2b872" stroke-width="2"  marker-end="url(#arr)"/>
+<rect x="806" y="250" width="180" height="96" rx="16" fill="#211f1c" stroke="#2f2c28" stroke-width="1.6" opacity="1"/>
+<text x="826" y="286" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="14" fill="#f2b872" font-weight="700" text-anchor="start" letter-spacing="0" opacity="1">04</text>
+<text x="826" y="320" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" fill="#f3eee6" font-weight="600" text-anchor="start" letter-spacing="0" opacity="1">Structure</text>
+<line x1="990" y1="298" x2="1014" y2="298" stroke="#f2b872" stroke-width="2"  marker-end="url(#arr)"/>
+<rect x="1018" y="250" width="180" height="96" rx="16" fill="#211f1c" stroke="#f2b872" stroke-width="1.6" opacity="1"/>
+<text x="1038" y="286" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="14" fill="#f2b872" font-weight="700" text-anchor="start" letter-spacing="0" opacity="1">05</text>
+<text x="1038" y="320" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" fill="#f3eee6" font-weight="600" text-anchor="start" letter-spacing="0" opacity="1">Generate</text>
+<line x1="1202" y1="298" x2="1226" y2="298" stroke="#5c5751" stroke-width="2"  marker-end="url(#arr)"/>
+<rect x="1230" y="250" width="180" height="96" rx="16" fill="#0f0e0d" stroke="#2f2c28" stroke-width="1.6" opacity="1"/>
+<text x="1250" y="286" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="14" fill="#5c5751" font-weight="700" text-anchor="start" letter-spacing="0" opacity="1">06</text>
+<text x="1250" y="320" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" fill="#8d877e" font-weight="600" text-anchor="start" letter-spacing="0" opacity="1">Publish</text>
+<rect x="170" y="385" width="1260" height="6" rx="3" fill="#2b2825" opacity="1"/>
+<rect x="170" y="385" width="1000" height="6" rx="3" fill="#f2b872" opacity="1"/>
+<text x="1430" y="420" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="15" fill="#8d877e" font-weight="400" text-anchor="end" letter-spacing="0" opacity="1">step 5 of 6 · generating draft</text>
+<rect x="170" y="450" width="760" height="420" rx="18" fill="#f3eee6"  opacity="1"/>
+<text x="210" y="510" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="30" fill="#1a1714" font-weight="800" text-anchor="start" letter-spacing="0" opacity="1">How to plan a month of content</text>
+<text x="210" y="548" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="30" fill="#1a1714" font-weight="800" text-anchor="start" letter-spacing="0" opacity="1">in one afternoon</text>
+<rect x="210" y="578" width="120" height="6" rx="3" fill="#f2b872" opacity="1"/>
+<rect x="210" y="620" width="660" height="10" rx="5" fill="#cfc7bb" opacity="1"/>
+<rect x="210" y="648" width="610" height="10" rx="5" fill="#cfc7bb" opacity="1"/>
+<rect x="210" y="676" width="680" height="10" rx="5" fill="#cfc7bb" opacity="1"/>
+<rect x="210" y="704" width="520" height="10" rx="5" fill="#cfc7bb" opacity="1"/>
+<rect x="210" y="760" width="640" height="10" rx="5" fill="#cfc7bb" opacity="1"/>
+<rect x="210" y="788" width="590" height="10" rx="5" fill="#cfc7bb" opacity="1"/>
+<rect x="210" y="816" width="470" height="10" rx="5" fill="#cfc7bb" opacity="1"/>
+<rect x="970" y="450" width="460" height="420" rx="18" fill="#211f1c" stroke="#2f2c28" stroke-width="1.5" opacity="1"/>
+<text x="1000" y="496" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="15" fill="#8d877e" font-weight="600" text-anchor="start" letter-spacing="2" opacity="1">CONTENT BRIEF</text>
+<text x="1000" y="548" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="16" fill="#8d877e" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">Keyword</text>
+<text x="1400" y="548" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" fill="#f3eee6" font-weight="500" text-anchor="end" letter-spacing="0" opacity="1">content calendar</text>
+<line x1="1000" y1="566" x2="1400" y2="566" stroke="#2f2c28"/>
+<text x="1000" y="604" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="16" fill="#8d877e" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">Intent</text>
+<text x="1400" y="604" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" fill="#f3eee6" font-weight="500" text-anchor="end" letter-spacing="0" opacity="1">how-to · planning</text>
+<line x1="1000" y1="622" x2="1400" y2="622" stroke="#2f2c28"/>
+<text x="1000" y="660" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="16" fill="#8d877e" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">Tone</text>
+<text x="1400" y="660" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" fill="#f3eee6" font-weight="500" text-anchor="end" letter-spacing="0" opacity="1">practical, warm</text>
+<line x1="1000" y1="678" x2="1400" y2="678" stroke="#2f2c28"/>
+<text x="1000" y="716" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="16" fill="#8d877e" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">Length</text>
+<text x="1400" y="716" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" fill="#f3eee6" font-weight="500" text-anchor="end" letter-spacing="0" opacity="1">1,400 words</text>
+<line x1="1000" y1="734" x2="1400" y2="734" stroke="#2f2c28"/>
+<text x="1000" y="772" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="16" fill="#8d877e" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">Sections</text>
+<text x="1400" y="772" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" fill="#f3eee6" font-weight="500" text-anchor="end" letter-spacing="0" opacity="1">6 · H2 outline</text>
+<line x1="1000" y1="790" x2="1400" y2="790" stroke="#2f2c28"/>
+<rect x="1000" y="810" width="218" height="38" rx="19.0" fill="#0f0e0d" stroke="#2f2c28" stroke-width="1.5" opacity="1"/><text x="1109.0" y="834.04" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="14" fill="#f2b872" font-weight="500" text-anchor="middle" letter-spacing="0" opacity="1">Prompt chain · 5 stages</text>
+<rect width="1600" height="1000" fill="url(#fadeB)"/>
+</svg>
