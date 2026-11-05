@@ -171,7 +171,7 @@
   }
 
   /* ── Scroll reveals ─────────────────────────────────────────────────── */
-  const revealSel = ['.head', '.statement .eyebrow', '.statement .pill', '.pfm', '.build__item', '.project', '.mini', '.also',
+  const revealSel = ['.head', '.statement .eyebrow', '.statement .pill', '.pfm', '.build__item', '.project', '.mini', '.other', '.also',
     '.slider__top', '.slides', '.job', '.lab__words', '.about__photo', '.about__text > *'];
   $$(revealSel.join(',')).forEach((el) => {
     el.setAttribute('data-reveal', '');
@@ -243,7 +243,7 @@
     story: {
       n: '03', cat: 'Enterprise AI Storytelling', title: 'Turning complex business data <em>into presentations</em>',
       line: 'Hybrid RAG + rule-based storytelling that creates audience-specific narratives.',
-      meta: [['Company', 'Storient'], ['Type', 'AI SaaS'], ['Focus', 'Enterprise storytelling'], ['Role', 'AI product']],
+      meta: [['Company', 'Storient'], ['Type', 'AI SaaS'], ['Focus', 'Enterprise storytelling'], ['Year', '2025']],
       img: 'assets/projects/enterprise-storytelling.svg',
       problem: 'Business and sales information is data-heavy and hard to turn into clear, persuasive presentations.',
       solution: 'LLM-driven workflows that combine retrieval with storytelling logic. A hybrid RAG architecture selects the right context; rule-based storytelling frameworks shape it for clarity, structure and persuasion.',
@@ -278,6 +278,7 @@
       <p class="cs__line">${c.line}</p>
       <dl class="cs__meta">${c.meta.map(([k, v]) => `<div><dt>${k}</dt><dd>${v}</dd></div>`).join('')}</dl>
       <figure class="cs__img"><img src="${c.img}" alt=""></figure>
+      <p class="cs__note">Illustrative mock-up, not client data or measured results.</p>
       <div class="cs__cols">
         <div><h3>Problem</h3><p>${c.problem}</p></div>
         <div><h3>Solution</h3><p>${c.solution}</p></div>

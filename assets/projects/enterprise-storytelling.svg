@@ -32,7 +32,7 @@
   <text x="1440" y="150" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="16" fill="#f2b872" font-weight="400" text-anchor="end" letter-spacing="1" opacity="1">AI SAAS</text>
 </g>
 <rect x="160" y="210" width="420" height="660" rx="18" fill="#211f1c" stroke="#2f2c28" stroke-width="1.5" opacity="1"/>
-<text x="190" y="256" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="15" fill="#8d877e" font-weight="600" text-anchor="start" letter-spacing="2" opacity="1">Q2_SALES_DATA.XLSX</text>
+<text x="190" y="256" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="15" fill="#8d877e" font-weight="600" text-anchor="start" letter-spacing="2" opacity="1">SAMPLE_SALES_DATA.XLSX</text>
 <text x="190" y="300" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="17" fill="#8d877e" font-weight="600" text-anchor="start" letter-spacing="0" opacity="1">Region</text>
 <text x="420" y="300" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="17" fill="#8d877e" font-weight="400" text-anchor="end" letter-spacing="0" opacity="1">Rev</text>
 <text x="540" y="300" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="17" fill="#8d877e" font-weight="400" text-anchor="end" letter-spacing="0" opacity="1">Δ</text>

@@ -6,3 +6,4 @@ dist/
 .claude/
 netlify.toml
 .DS_Store
+tools/

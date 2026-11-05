@@ -72,8 +72,8 @@
 <rect x="590" y="664" width="330" height="10" rx="5" fill="#2b2825" opacity="1"/>
 <rect x="590" y="664" width="138" height="10" rx="5" fill="url(#amberFill)" opacity="1"/>
 <text x="930" y="654" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="15" fill="#8d877e" font-weight="400" text-anchor="end" letter-spacing="0" opacity="1">42</text>
-<rect x="590" y="740" width="186" height="38" rx="19.0" fill="#211f1c" stroke="#2f2c28" stroke-width="1.5" opacity="1"/><text x="683.0" y="764.04" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="14" fill="#f3eee6" font-weight="500" text-anchor="middle" letter-spacing="0" opacity="1">YouTube · 48 videos</text>
-<rect x="590" y="790" width="170" height="38" rx="19.0" fill="#211f1c" stroke="#2f2c28" stroke-width="1.5" opacity="1"/><text x="675.0" y="814.04" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="14" fill="#f3eee6" font-weight="500" text-anchor="middle" letter-spacing="0" opacity="1">Blogs · 120 posts</text>
+<rect x="590" y="740" width="186" height="38" rx="19.0" fill="#211f1c" stroke="#2f2c28" stroke-width="1.5" opacity="1"/><text x="683.0" y="764.04" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="14" fill="#f3eee6" font-weight="500" text-anchor="middle" letter-spacing="0" opacity="1">YouTube videos</text>
+<rect x="590" y="790" width="170" height="38" rx="19.0" fill="#211f1c" stroke="#2f2c28" stroke-width="1.5" opacity="1"/><text x="675.0" y="814.04" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="14" fill="#f3eee6" font-weight="500" text-anchor="middle" letter-spacing="0" opacity="1">Blog posts</text>
 <line x1="950" y1="540" x2="1010" y2="540" stroke="#f2b872" stroke-width="2"  marker-end="url(#arr)"/>
 <rect x="1030" y="210" width="410" height="660" rx="18" fill="#211f1c" stroke="#f2b872" stroke-width="1.5" opacity="1"/>
 <text x="1060" y="256" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="15" fill="#f2b872" font-weight="600" text-anchor="start" letter-spacing="2" opacity="1">STRUCTURED OUTPUT</text>

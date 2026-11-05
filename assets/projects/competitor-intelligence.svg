@@ -32,7 +32,7 @@
   <text x="1440" y="150" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="16" fill="#f2b872" font-weight="400" text-anchor="end" letter-spacing="1" opacity="1">RAG · ROUTING</text>
 </g>
 <rect x="160" y="210" width="400" height="660" rx="18" fill="#211f1c" stroke="#2f2c28" stroke-width="1.5" opacity="1"/>
-<text x="190" y="256" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="15" fill="#8d877e" font-weight="600" text-anchor="start" letter-spacing="2" opacity="1">CLIENT MEETING · 42 MIN</text>
+<text x="190" y="256" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="15" fill="#8d877e" font-weight="600" text-anchor="start" letter-spacing="2" opacity="1">SAMPLE CLIENT MEETING</text>
 <text x="190" y="300" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="14" fill="#f2b872" font-weight="600" text-anchor="start" letter-spacing="0" opacity="1">Client</text>
 <rect x="190" y="312" width="340" height="74" rx="12" fill="#0f0e0d" stroke="#f2b872" stroke-width="1.2" opacity="1"/>
 <text x="208" y="342" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" fill="#f3eee6" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">We're evaluating a cheaper</text>
